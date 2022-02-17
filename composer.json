@@ -22,10 +22,10 @@
         }
     ],
     "require": {
-        "php": "^7.3|^8.0",
+        "php": "^7.3 || ^8.0",
         "ext-json": "*",
-        "illuminate/database": "^6.0|^7.0|^8.0",
-        "illuminate/support": "^6.0|^7.0|^8.0",
+        "illuminate/database": "^8 || ^9",
+        "illuminate/support": "^8 || ^9",
         "longman/telegram-bot": "^0.74"
     },
     "require-dev": {
