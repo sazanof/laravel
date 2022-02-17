@@ -1,24 +1,24 @@
 {
     "name": "sazanof/php-telegram-bot-laravel",
     "type": "library",
-    "description": "Package to integrate PHP Telegram Bot library in Laravel 6.x, 7.x, and 8.x",
+    "description": "Package to integrate PHP Telegram Bot library in Laravel 8.x, 9.x",
     "keywords": [
         "laravel",
         "telegram",
         "bot"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/php-telegram-bot/laravel",
+    "homepage": "https://github.com/sazanof/php-telegram-bot-laravel",
     "support": {
-        "issues": "https://github.com/php-telegram-bot/laravel/issues",
-        "source": "https://github.com/php-telegram-bot/laravel"
+        "issues": "https://github.com/sazanof/php-telegram-bot-laravel/issues",
+        "source": "https://github.com/sazanof/php-telegram-bot-laravel"
     },
     "authors": [
         {
-            "name": "Avtandil Kikabidze aka LONGMAN",
-            "email": "akalongman@gmail.com",
-            "homepage": "http://longman.me",
-            "role": "Maintainer, Developer"
+            "name": "Sazanof",
+            "email": "m@sazanof.ru",
+            "homepage": "https://sazanof.ru",
+            "role": "The Man"
         }
     ],
     "require": {
